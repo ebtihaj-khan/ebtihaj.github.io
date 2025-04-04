@@ -1,13 +1,11 @@
-# About Me
+I'm a data-driven Product Manager with 8+ years of experience, passionate about developing solutions that solve real-life problems through technology. From citizen-centric tech to tackling pressing health issues, I've shipped over 30 digital products across public, private, and nonprofit sectors.
 
-I am a technologist with over 20 years of professional experience designing and developing computing experiences spanning the public and private sectors. My diverse experience enables me to provide practical guidance and advice across programs and for engineering matters.
+Currently, I'm tackling a critical challenge in the global health sector with a Bill & Melinda Gates Foundation-backed project. I'm spearheading the development of a data-driven GIS-based product that has the potential to impact millions of lives.
 
-Much of my passion for civic tech stems from my love of technology, which began early. Growing up at the advent of personal computers and during the age of the internet provided me with every opportunity to explore, learn, and grow as a programmer and designer. I used this experience to build websites and computer animations for customers at a relatively young age.
+What sets me apart?
 
-Having worked on large-scale projects over the course of my career, I have both the technical knowledge and the confidence to tackle ambitious ventures. I have helped build the first computerized identity cards, machine-readable passports, and driving licenses in Pakistan. My work also involved building border-control systems, online payment systems, vehicle tracking systems, and more at the National Database and Registration Authority.
+1. Passion for impact: I don't just build products, I build products that matter. My social conscience fuels my drive to create solutions that address real-world challenges.
+2. Data-driven decision-making: Numbers are my friends! I leverage data analysis to inform every step of the product development process, ensuring we build what users truly need.
+3. Collaborative leadership: I believe in the power of cross-functional teams. I bring everyone to the table, fostering a culture of open communication and shared ownership.
 
-Following a study break in Malaysia, where I helped set up a virtual university, I worked on several projects as a consultant for the UN and other multilateral donor agencies. I conducted a census of the Afghan refugees in Pakistan and evaluated several international aid programs. As the resident technologist, I gained first-hand experience in data management and analysis from some of the leading experts in the field.
-
-I have developed innovative customer experience and engagement products for local telecommunication companies and government departments. Utilizing my knowledge in data analysis and user experience design, I have guided teams on improving multiple customer engagement products and processes.
-
-I moonlight as Director of Engineering at AlphaX Decision Sciences, a US-based startup developing AI-assisted decision support systems for companies in the oil and energy sector. I have a background in Computing and Visual Effects for Film from schools in Pakistan and Malaysia. I live in Islamabad, Pakistan. 
+More than products, I build solutions that empower people and leave a lasting impact. Connect with me to chat about innovation, data, and harnessing technology for good!
