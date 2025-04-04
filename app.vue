@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useHead({
-  title: 'Shaji Ahmed',
+  title: 'Ebtihaj',
   meta: [
     { name: 'description', content: 'Curriculum Vitae / Resume' }
   ],

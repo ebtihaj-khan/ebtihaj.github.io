@@ -1,69 +1,76 @@
 <script setup lang="ts">
 const skills = {
-  Languages: [
-    "Python",
-    "JavaScript",
-    "PHP",
-    "C#",
-    "SQL",
-    "HTML/CSS",
-  ],
-  Frameworks: [
-    "Django",
-    "FastAPI",
-    "Laravel",
-    "Node.js",
-    "Vue.js / NUXT",
-    "jQuery",
-    "Drupal",
-    "WordPress",
-    "HTMX",
-    "Strapi",
-  ],
-  Libraries: [
-    'Pandas',
-    'Numpy',
-    'Scikit-learn',
-  ],
-  Databases: [
-    "Microsoft SQL Server",
-    "MySQL",
-    "PostgreSQL",
-    "SQLite",
-    "Redis",
-    "Supabase"
-  ],
-  Packages: [
-    "Visual Studio",
-    "MS Office",
-    "Adobe",
-    "SPSS",
-    "Anaconda"
-  ],
-  Platforms: [
-    "Digital Ocean",
-    "Firebase",
-    "AWS",
-    "Azure",
-    "Google Cloud",
-  ],
-  Tools: [
-    'Docker',
-    'Git',
-    'Pip',
-    'Vite',
-    'Composer',
-    'Webpack'
-  ],
-  IDEs: [
-    'Visual Studio Code',
-    'Sublime Text',
-    'Visual Studio',
-    'SQL Server Management Studio',
-    'MySQL Workbench',
-    'Postman',
-  ]
-}
+  "Product Strategy": [
+      "Product Lifecycle",
+      "Roadmapping",
+      "PRDs",
+      "Go-to-Market",
+      "Product Discovery",
+      "OKRs"
+    ],
+    "User Research & UX": [
+      "User Interviews",
+      "Usability Testing",
+      "JTBD",
+      "Personas",
+      "Journey Mapping",
+      "Wireframing"
+    ],
+    "Data & Analysis": [
+      "SQL",
+      "Funnel Analysis",
+      "A/B Testing",
+      "Google Analytics",
+      "Mixpanel",
+      "Tableau",
+      "Excel"
+    ],
+    "Agile & Delivery": [
+      "Scrum",
+      "Kanban",
+      "Jira",
+      "Confluence",
+      "Sprint Planning",
+      "Backlog Grooming",
+      "Release Management"
+    ],
+    "Tech Fluency": [
+      "APIs",
+      "REST",
+      "JSON",
+      "SQL",
+      "PostgreSQL",
+      "PostGIS",
+      "Git",
+    ],
+    "Collaboration Tools": [
+      "Slack",
+      "Notion",
+      "Miro",
+      "Figma",
+      "Trello",
+      "Asana"
+    ],
+    "Stakeholder Management": [
+      "Cross-functional Alignment",
+      "Communication Plans",
+      "Workshops",
+      "Change Management"
+    ],
+    "Domain Expertise": [  
+    "B2B2C",
+    "B2B",
+    "B2C",
+    "HealthTech",
+      "GIS",
+      "Humanitarian Tech",
+      "Digital Infrastructure",
+      "Citizen-Centric Tech",
+      "Public Sector",
+      "Non-Profit",
+      "Startups",
+    ]
+  }
 </script>
 <template>
   <section id="skills" class="my-8 md:my-12 xl:my-16 print:break-before-page">

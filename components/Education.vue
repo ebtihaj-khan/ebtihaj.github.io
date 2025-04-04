@@ -1,14 +1,16 @@
 <script setup lang="ts">
 const education = [
   {
-    "period": "2005 - 2009",
-    "major": "Multimedia (Film and Animation)",
-    "university": "Multimedia University, MY",
+    "period": "2014 - 2020",
+    "degree": "Masters of Science",
+    "major": "Computer Sciences",
+    "university": "University of Engineering and Technology",
   },
   {
-    "period": "1997 - 1999",
+    "period": "2010 - 2014",
+    "degree": "Bachelors of Science",
     "major": "Computer Science",
-    "university": "FAST-NUCES, PK",
+    "university": "University of Engineering and Technology",
   }
 ]
 </script>

@@ -7,52 +7,28 @@ const columns = [
 ]
 const employment = [
   {
-    "period": "2022 till date",
-    "designation": "Chief Executive Officer",
-    "organization": "Code for Pakistan, PK",
+    "period": "2022 - Present",
+    "designation": "Senior Product Manager",
+    "organization": "Rayn Group",
+    "sector": "Private"
+  },
+  {
+    "period": "2016 - 2022",
+    "designation": "Government Innovation Lead (Product)",
+    "organization": "Code for Pakistan",
     "sector": "Development"
   },
   {
-    "period": "2018 till date",
-    "designation": "Principal Engineer",
-    "organization": "AlphaX Decision Sciences, US",
-    "sector": "Energy"
+    "period": "2015 - 2016",
+    "designation": "Business Innovation Officer",
+    "organization": "The Nerd Camp",
+    "sector": "Private"
   },
   {
-    "period": "2017 - 2018",
-    "designation": "Manager Technology & Development",
-    "organization": "Apollo Telecom, PK",
-    "sector": "Telecom"
-  },
-  {
-    "period": "2016 - 2017",
-    "designation": "Manager Knowledge & Systems",
-    "organization": "AAN Associates, PK",
-    "sector": "Development"
-  },
-  {
-    "period": "2010 - 2015",
-    "designation": "Managing Consultant",
-    "organization": "Dech Enterprise, PK",
-    "sector": "Development"
-  },
-  {
-    "period": "2009 - 2010",
-    "designation": "Consultant",
-    "organization": "ePROTEA Sdn Bhd, MY",
-    "sector": "Finance"
-  },
-  {
-    "period": "2009 - 2010",
-    "designation": "Consultant",
-    "organization": "Al-Madinah University, MY",
-    "sector": "Education"
-  },
-  {
-    "period": "2001 - 2005",
-    "designation": "System Design Engineer",
-    "organization": "NADRA, PK",
-    "sector": "Government"
+    "period": "2014 - 2015",
+    "designation": "Software Engineer",
+    "organization": "Sweet Pixel Studios",
+    "sector": "Private"
   }
 ]
 </script>
