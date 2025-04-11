@@ -3,11 +3,14 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   ssr: true,
   app: {
-    baseURL: '/',
+    baseURL: '/ebtihaj.github.io/',
     buildAssetsDir: '/_nuxt/',
   },
   nitro: {
-    preset: 'static'
+    preset: 'static',
+    output: {
+      dir: '.output/public'
+    }
   },
   modules: ["@nuxt/ui"],
   compatibilityDate: "2025-02-18",
