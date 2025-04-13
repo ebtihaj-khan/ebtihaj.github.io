@@ -7,5 +7,6 @@
     <Employment />
     <Experience />
     <Projects />
+    <Achievements />
   </article>
 </template>
