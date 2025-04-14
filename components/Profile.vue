@@ -11,13 +11,13 @@
     <p class="mb-4">
       What sets me apart?
     </p>
-    <p class="mb-4">
+ 
       <ol>
-        <li>1. Passion for impact: I don't just build products, I build products that matter. My social conscience fuels my drive to create solutions that address real-world challenges.</li>
-        <li>2. Data-driven decision-making: Numbers are my friends! I leverage data analysis to inform every step of the product development process, ensuring we build what users truly need.</li>
-        <li>3. Collaborative leadership: I believe in the power of cross-functional teams. I bring everyone to the table, fostering a culture of open communication and shared ownership.</li>
+        <li>1. <strong>Passion for impact:</strong> I don't just build products, I build products that matter. My social conscience fuels my drive to create solutions that address real-world challenges.</li>
+        <li>2. <strong>Data-driven decision-making:</strong> Numbers are my friends! I leverage data analysis to inform every step of the product development process, ensuring we build what users truly need.</li>
+        <li>3. <strong>Collaborative leadership:</strong> I believe in the power of cross-functional teams. I bring everyone to the table, fostering a culture of open communication and shared ownership.</li>
       </ol>
-    </p>
+    
     <p class="mb-4">
       <br>
       More than products, I build solutions that empower people and leave a lasting impact. Connect with me to chat about innovation, data, and harnessing technology for good!

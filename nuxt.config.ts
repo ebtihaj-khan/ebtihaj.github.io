@@ -5,6 +5,12 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/',
     buildAssetsDir: '/_nuxt/',
+    head: {
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      ],
+      title: 'Ebtihaj Khan - Technical Product Manager'
+    }
   },
   nitro: {
     preset: 'static',
